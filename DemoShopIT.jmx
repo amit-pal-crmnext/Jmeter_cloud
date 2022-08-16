@@ -1416,7 +1416,7 @@
               </elementProp>
               <elementProp name="connectionString" elementType="Argument">
                 <stringProp name="Argument.name">connectionString</stringProp>
-                <stringProp name="Argument.value">InstrumentationKey=e04595d8-ad4a-4995-aa21-15b7b5604e60;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/</stringProp>
+                <stringProp name="Argument.value">InstrumentationKey=00d48312-059c-45b6-b33b-084c196706ed;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
               <elementProp name="liveMetrics" elementType="Argument">
@@ -1446,7 +1446,7 @@
               </elementProp>
               <elementProp name="InstrumentationKey" elementType="Argument">
                 <stringProp name="Argument.name">InstrumentationKey</stringProp>
-                <stringProp name="Argument.value">e04595d8-ad4a-4995-aa21-15b7b5604e60</stringProp>
+                <stringProp name="Argument.value">00d48312-059c-45b6-b33b-084c196706ed</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
             </collectionProp>
